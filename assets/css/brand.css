@@ -1,0 +1,32 @@
+@media (min-width: 375px) {
+  .brand-fs-sm {
+    font-size: 13px;
+    font-family: 'Adamina';
+  }
+}
+
+@media (min-width: 540px) {
+  .brand-fs-sm {
+    font-size: 22px;
+    font-family: 'Adamina';
+  }
+}
+
+@media (min-width: 768px) {
+  .brand-fs-sm {
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 912px) {
+  .brand-fs-sm {
+    font-size: 28px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .brand-fs-sm {
+    font-size: 25px;
+  }
+}
+
