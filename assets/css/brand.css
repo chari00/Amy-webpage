@@ -1,6 +1,6 @@
-@media (min-width: 280px) {
+@media ( orientation: portrait){
   .brand-fs-sm {
-    font-size: 8px;
+    font-size: 15px;
     font-family: "Adamina";
   }
 }
