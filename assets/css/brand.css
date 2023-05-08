@@ -8,14 +8,14 @@
 @media (min-width: 375px) {
   .brand-fs-sm {
     font-size: 13px;
-    font-family: "Adamina";
+    font-family: 'Adamina';
   }
 }
 
 @media (min-width: 540px) {
   .brand-fs-sm {
     font-size: 22px;
-    font-family: "Adamina";
+    font-family: 'Adamina';
   }
 }
 
@@ -36,3 +36,4 @@
     font-size: 25px;
   }
 }
+
