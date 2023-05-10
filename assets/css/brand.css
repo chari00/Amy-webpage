@@ -1,14 +1,33 @@
-@media (min-width: 375px) {
+@media (min-width: 360px) {
   .brand-fs-sm {
-    font-size: 13px;
+    font-size: 12px;
     font-family: 'Adamina';
+  }
+  iframe{ 
+    width: 340px;
+    
+  }
+}
+@media (min-width: 412px) {
+  .brand-fs-sm {
+    font-size: 15px;
+    font-family: 'Adamina';
+  }
+  iframe{ 
+    width: 370px;
+    
   }
 }
 
+
 @media (min-width: 540px) {
   .brand-fs-sm {
-    font-size: 22px;
+    font-size: 20px;
     font-family: 'Adamina';
+  }
+  iframe{ 
+    width: 400px;
+    
   }
 }
 
@@ -16,24 +35,35 @@
   .brand-fs-sm {
     font-size: 15px;
   }
+  iframe{ 
+    width: 290px;
+    height: 150px;
+    
+  }
 }
 
 @media (min-width: 912px) {
   .brand-fs-sm {
     font-size: 28px;
   }
+  iframe{ 
+    width: 290px;
+    height: 190px;
+    
+  }
 }
 
 @media (min-width: 1200px) {
   .brand-fs-sm {
-    font-size: 25px;
+    font-size: 35px;
+  }
+
+  iframe{ 
+    width: 600px;
+    
   }
 }
 
-@media (min-width: 300px) {
-  .brand-fs-sm {
-    font-size: 12px;
-    font-family: 'Adamina';
-  }
-}
+
+
 
